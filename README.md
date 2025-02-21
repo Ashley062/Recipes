@@ -1,3 +1,1 @@
-Odin Projects first assignment:
-
-- Creating a recipe using purely html
+Creating recipes using purely html
